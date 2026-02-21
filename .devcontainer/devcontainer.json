@@ -33,7 +33,6 @@
 				"clangd.path": "/usr/bin/clangd"
 			},
 			"extensions": [
-				"ms-vscode.makefile-tools",
 				"llvm-vs-code-extensions.vscode-clangd"
 			]
 		}
